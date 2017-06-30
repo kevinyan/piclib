@@ -5,7 +5,9 @@
 
 # 按下面步骤进行：
 1. 访问页面：
-```https://ztcwx.myscrm.cn/page/room.html?token=876&activityId=123&chooseRoomId=876```
+
+```https://ztcwx.myscrm.cn/page/room.html?token=876&activityId=123&chooseRoomId=876
+```
 
 2. Fiddler代理静态资源：
 ```
