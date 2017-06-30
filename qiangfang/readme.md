@@ -23,5 +23,5 @@ qiangfang.js
 3. 刷新页面
 
 
-!(图片)[https://raw.githubusercontent.com/kevinyan/piclib/master/qiangfang/demo.jpg]
+![图片](https://raw.githubusercontent.com/kevinyan/piclib/master/qiangfang/demo.jpg)
 
